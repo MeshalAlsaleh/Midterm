@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "[Meshal-Alsaleh]-midT1"
